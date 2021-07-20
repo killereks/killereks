@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I started my programming journey with Scratch.**
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=killereks&show_icons=true&hide_border=true"/>
-<br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/killerek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="killerek" height="30" width="40" /></a>
