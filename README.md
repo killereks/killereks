@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">I am a bilingual Computer Science student, currently interested in Game Development and Algorithms.</h3>
-
-- 🔭 I’m currently working on **KiRoX - an Operating System**
-
-- 👯 I’m looking to collaborate on **Any fun projects**
+<h3 align="center">I am a bilingual Software Engineer, currently interested in Game Development and Algorithms.</h3>
 
 - 👨‍💻 All of my projects are available at [https://killereks.github.io/personal-website/mywork.html](https://killereks.github.io/personal-website/mywork.html)
 
