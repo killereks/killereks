@@ -9,9 +9,8 @@
 
 - ⚡ Fun fact **I started my programming journey with Scratch.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=killereks&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="killereks stats" /></p>
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=killereks&show_icons=true&hide_border=true"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killereks&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="killereks stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=killereks&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="killereks stats" /></p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
